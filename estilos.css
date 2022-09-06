@@ -1,0 +1,35 @@
+
+main, header{
+    width: 80%;
+    margin: auto;
+}
+
+#mensaje{
+    display: none;
+}
+#modalidad{
+    display: none;
+
+}
+#presencial{
+    display: none;
+}
+#mensaje_exito{
+    display: none;
+}
+#productivo{
+    display: none;
+}
+#internet{
+    display: none;
+}
+#reqvpn{
+    display: none;
+}
+
+#personal{
+    display: none;
+}
+#dispuesto{
+    display: none;
+}
